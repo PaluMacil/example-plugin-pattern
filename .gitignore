@@ -24,6 +24,8 @@ develop-eggs
 lib
 lib64
 __pycache__
+vcs.xml
+.name
 
 # Installer logs
 pip-log.txt
